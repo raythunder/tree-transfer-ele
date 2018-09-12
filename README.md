@@ -4,6 +4,21 @@
 
 这个包只是测试。不依赖element-ui的版本
 
+# 安装
+
+`npm i tree-transfer-ele -S`
+
+# 需要覆盖其他版本element-ui的样式
+```
+<style>
+#transfer .el-tree-node__expand-icon{
+    border: 0; margin: 0; width: auto; height: auto;font-size: 12px;
+}
+#transfer .el-tree{
+    border:0;
+}
+</style>
+```
 ## Build Setup
 
 ``` bash
