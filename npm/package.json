@@ -1,0 +1,26 @@
+{
+  "name": "tree-transfer-ele",
+  "version": "1.0.2",
+  "description": "仅测试使用",
+  "main": "dist/treeTransfer.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot --inline",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [
+    "tree-transfer",
+    "tree"
+  ],
+  "author": "raythunder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raythunder/tree-transfer-ele/issues"
+  },
+  "homepage": "https://github.com/raythunder/tree-transfer-ele#readme",
+  "dependencies": {}
+}
